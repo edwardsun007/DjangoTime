@@ -1,0 +1,5 @@
+/apps/__pycache__/
+/apps/time_display/__pycache__/
+/apps/time_display/migrations/__pycache__/
+/DjangoTimeDisplay/__pycache__/
+/db.sqlite3
